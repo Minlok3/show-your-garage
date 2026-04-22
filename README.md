@@ -78,7 +78,7 @@ php artisan key:generate
 php artisan migrate
 ```
 
-7. **Run the local server (make sure you )**
+7. **Run the local server**
 ```bash
 php artisan serve
 ```
