@@ -23,7 +23,7 @@ Web application built with Laravel that allows motoring enthusiasts to create th
 <img width="1920" height="940" alt="s2" src="https://github.com/user-attachments/assets/1e396ea9-ec52-4f04-b515-34d601572101" />
 
 ### Own garage:
-<img width="1920" height="944" alt="s3" src="https://github.com/user-attachments/assets/fa87dba8-b0ae-4d0d-b4f4-0e793a0f2ba6" />
+<img width="1920" height="942" alt="s3" src="https://github.com/user-attachments/assets/89875b56-87fe-4677-b7f2-9afe7b394d66" />
 
 ### Adding new vehicle form:
 <p align="center">
